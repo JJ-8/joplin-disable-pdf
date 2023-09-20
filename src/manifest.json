@@ -2,11 +2,11 @@
 	"manifest_version": 1,
 	"id": "fd117a99-b165-4824-893c-5825439a842d",
 	"app_min_version": "2.0",
-	"version": "1.0.0",
-	"name": "Disable PDF",
-	"description": "Disables the PDF preview (and export) in Joplin for better performance",
+	"version": "1.0.1",
+	"name": "Disable markdown renderer",
+	"description": "Disables the markdown renderer / PDF preview (and export) and WYSIWYG editor in Joplin for better performance",
 	"author": "JJ-8",
 	"homepage_url": "https://github.com/JJ-8/joplin-disable-pdf#readme",
 	"repository_url": "https://github.com/JJ-8/joplin-disable-pdf",
-	"keywords": ["pdf", "disable", "preview"]
+	"keywords": ["pdf", "disable", "preview", "markdown", "performance"]
 }

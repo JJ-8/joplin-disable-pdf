@@ -3,7 +3,7 @@ module.exports = {
 		return {
 			plugin: function (markdownIt, _options) {
 				markdownIt.renderer.render = function (tokens, options, env) {
-					return "PDF is disabled";
+					return "Markdown renderer is disabled";
 				};
 			},
 		};
